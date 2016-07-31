@@ -1,0 +1,4 @@
+.idea
+*.con
+.DS_Store
+build
